@@ -1,5 +1,6 @@
 {
   "name": "open-weather",
+  "homepage": "https://open-weather-ten.vercel.app/home",
   "version": "0.1.0",
   "private": true,
   "scripts": {
